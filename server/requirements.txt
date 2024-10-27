@@ -1,2 +1,4 @@
 flask
 transformers
+Flask-CORS
+gunicorn
